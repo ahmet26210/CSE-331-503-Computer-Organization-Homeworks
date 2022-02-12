@@ -1,0 +1,440 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\1801042674_hw4_restored\simulation\modelsim
+v_32bit_adder
+IzbL2SUQHodbz5^_:8FeEm3
+V`7:`dedJUF;FS1cX2k4Zb2
+Z1 dC:\altera\1801042674_hw4_restored\simulation\modelsim
+w1639754391
+8C:/altera/1801042674_hw4_restored/_32bit_adder.v
+FC:/altera/1801042674_hw4_restored/_32bit_adder.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored -O0
+n@_32bit_adder
+!i10b 1
+!s100 enMWd>cSoO=>hZYRn2JWO2
+!s85 0
+!s108 1641641291.151000
+!s107 C:/altera/1801042674_hw4_restored/_32bit_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/_32bit_adder.v|
+!s101 -O0
+v_32bit_and
+IOSPJ1I3O[9W3LaH1J``LA2
+VmRf]MZ;I<]Th6NJRb=fGa1
+R1
+w1639345367
+8C:/altera/1801042674_hw4_restored/_32bit_and.v
+FC:/altera/1801042674_hw4_restored/_32bit_and.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@_32bit_and
+!i10b 1
+!s100 T[WfNIE@nCiz2B1iOckzS0
+!s85 0
+!s108 1641641291.196000
+!s107 C:/altera/1801042674_hw4_restored/_32bit_and.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/_32bit_and.v|
+!s101 -O0
+v_32bit_nor
+IjA>UTXA@Rl@F]dL^lmGg=1
+Vb5jGfW<QD35ZPUG4AXVBl1
+R1
+w1639345554
+8C:/altera/1801042674_hw4_restored/_32bit_nor.v
+FC:/altera/1801042674_hw4_restored/_32bit_nor.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@_32bit_nor
+!i10b 1
+!s100 CZiTo]AKP;>X81=OoCaH^1
+!s85 0
+!s108 1641641291.354000
+!s107 C:/altera/1801042674_hw4_restored/_32bit_nor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/_32bit_nor.v|
+!s101 -O0
+v_32bit_or
+I>Hk5z>NJZKDMAl7m1kY=83
+VWBi3h`1g69JmXCe82>FC:1
+R1
+w1639345474
+8C:/altera/1801042674_hw4_restored/_32bit_or.v
+FC:/altera/1801042674_hw4_restored/_32bit_or.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@_32bit_or
+!i10b 1
+!s100 4P>lak:Q?k=Sczg]h2k4U2
+!s85 0
+!s108 1641641291.248000
+!s107 C:/altera/1801042674_hw4_restored/_32bit_or.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/_32bit_or.v|
+!s101 -O0
+v_32bit_slt
+ITVmV25WC:@BI<i7VF_8EI3
+V^=e1LDB9:nkc:=b`JY`dL2
+R1
+w1639915201
+8C:/altera/1801042674_hw4_restored/_32bit_slt.v
+FC:/altera/1801042674_hw4_restored/_32bit_slt.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@_32bit_slt
+!i10b 1
+!s100 ooaNlF84??h3LIKKinN1`3
+!s85 0
+!s108 1641641291.453000
+!s107 C:/altera/1801042674_hw4_restored/_32bit_slt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/_32bit_slt.v|
+!s101 -O0
+v_32bit_sub
+I^ZY9nWbC]3koo98diId<g1
+V@e`zzg;JOfD4dO84QYPjm2
+R1
+w1639754403
+8C:/altera/1801042674_hw4_restored/_32bit_sub.v
+FC:/altera/1801042674_hw4_restored/_32bit_sub.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@_32bit_sub
+!i10b 1
+!s100 ADc;;5Q2U:UFOJ2d9J6zN0
+!s85 0
+!s108 1641641291.404000
+!s107 C:/altera/1801042674_hw4_restored/_32bit_sub.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/_32bit_sub.v|
+!s101 -O0
+v_32bit_xor
+IMi90J4BgDdjD:EKE1IUDN0
+V4RUS:Rbk_zH@C1>6QOz9P2
+R1
+w1639345539
+8C:/altera/1801042674_hw4_restored/_32bit_xor.v
+FC:/altera/1801042674_hw4_restored/_32bit_xor.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@_32bit_xor
+!i10b 1
+!s100 6_ecVJg@@b=JfGO[YLEMX0
+!s85 0
+!s108 1641641291.298000
+!s107 C:/altera/1801042674_hw4_restored/_32bit_xor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/_32bit_xor.v|
+!s101 -O0
+v_4bit_adder
+IHejRM?OUT0Bi4ObQ6hYGC3
+V;GVK5A0A?7nzA2?dN`9>?2
+R1
+w1506410687
+8C:/altera/1801042674_hw4_restored/_4bit_adder.v
+FC:/altera/1801042674_hw4_restored/_4bit_adder.v
+L0 1
+R2
+r1
+31
+R3
+n@_4bit_adder
+R4
+!i10b 1
+!s100 BkQ>gCUJZf0k3H?<[IJ_R3
+!s85 0
+!s108 1641641290.948000
+!s107 C:/altera/1801042674_hw4_restored/_4bit_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/_4bit_adder.v|
+!s101 -O0
+v_8x3mux
+IgOEccn<eN4WNJAl[_n<Pj1
+V;cN5KRlzARil;K`MWZV203
+R1
+w1639855517
+8C:/altera/1801042674_hw4_restored/_8x3mux.v
+FC:/altera/1801042674_hw4_restored/_8x3mux.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@_8x3mux
+!i10b 1
+!s100 8W;;oDKnnC2PefAmZS8^H1
+!s85 0
+!s108 1641641291.502000
+!s107 C:/altera/1801042674_hw4_restored/_8x3mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/_8x3mux.v|
+!s101 -O0
+vALU_control
+I:AKM5nkTU`:7EfNnUC?zR0
+VBXF7cV`aAY8YMHFgAM3Uj0
+R1
+w1640957867
+8C:/altera/1801042674_hw4_restored/ALU_control.v
+FC:/altera/1801042674_hw4_restored/ALU_control.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@a@l@u_control
+!i10b 1
+!s100 VfDic:Wo`K>fg1=m3VLoR0
+!s85 0
+!s108 1641641291.641000
+!s107 C:/altera/1801042674_hw4_restored/ALU_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/ALU_control.v|
+!s101 -O0
+vControl
+I<^@^KDeHW]CY?J1<?4AIc0
+VO4PFlN[gJV9=:EW;:cc8b0
+R1
+w1640953381
+8C:/altera/1801042674_hw4_restored/Control.v
+FC:/altera/1801042674_hw4_restored/Control.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@control
+!i10b 1
+!s100 7g@FF_WjKzkR?GKP^YBa83
+!s85 0
+!s108 1641641291.595000
+!s107 C:/altera/1801042674_hw4_restored/Control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/Control.v|
+!s101 -O0
+vdata_memory
+I8ZKDRCON^@bKiab59ZI=50
+V59oP7Zb_>7Fc_;=>9eeUj0
+R1
+w1641230150
+8C:/altera/1801042674_hw4_restored/data_memory.v
+FC:/altera/1801042674_hw4_restored/data_memory.v
+L0 3
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ==XiKjDHlz^MV@[F]<T1i0
+!s85 0
+!s108 1641641291.923000
+!s107 C:/altera/1801042674_hw4_restored/data_memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/data_memory.v|
+!s101 -O0
+vfull_adder
+IhjgF0Wio5HhC<aA::KeZW2
+VRYP>nD9R>G8ML@J?Oi=:32
+R1
+w1475839937
+8C:/altera/1801042674_hw4_restored/full_adder.v
+FC:/altera/1801042674_hw4_restored/full_adder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 VM[==HScbBoU53Wb8SDA[3
+!s85 0
+!s108 1641641291.086000
+!s107 C:/altera/1801042674_hw4_restored/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/full_adder.v|
+!s101 -O0
+vhalf_adder
+I3MQ]MGaNzSnHf6?GKPN<^3
+VUANSHBM`n;lleGcSze4Z^1
+R1
+w1475839929
+8C:/altera/1801042674_hw4_restored/half_adder.v
+FC:/altera/1801042674_hw4_restored/half_adder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 j=JVWj<OWjEMOUT2S?cOU0
+!s85 0
+!s108 1641641291.034000
+!s107 C:/altera/1801042674_hw4_restored/half_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/half_adder.v|
+!s101 -O0
+vMiniMIPS
+IS<BlS:nX6EJgMz;_Pl7[71
+VQZHO^HS:?FcL[jBVAlVEd3
+R1
+w1641218599
+8C:/altera/1801042674_hw4_restored/MiniMIPS.v
+FC:/altera/1801042674_hw4_restored/MiniMIPS.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@mini@m@i@p@s
+!i10b 1
+!s100 l^z>9RFgW__[[eGE8DS^j1
+!s85 0
+!s108 1641641291.779000
+!s107 C:/altera/1801042674_hw4_restored/MiniMIPS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/MiniMIPS.v|
+!s101 -O0
+vMiniMIPS_testbench
+!i10b 1
+!s100 [I`2B0ONcK4Ycd<JhiG=]2
+Iabi_C_>W4G_4HhbAVPjES2
+VY0QJ?izkTI2LTl>WTToO32
+R1
+w1641235282
+8C:/altera/1801042674_hw4_restored/MiniMIPS_testbench.v
+FC:/altera/1801042674_hw4_restored/MiniMIPS_testbench.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1641641312.510000
+!s107 C:/altera/1801042674_hw4_restored/MiniMIPS_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/altera/1801042674_hw4_restored/MiniMIPS_testbench.v|
+!s101 -O0
+o-work work -O0
+n@mini@m@i@p@s_testbench
+vmips_registers
+Iz^e1jdojnOlQ:RGaJL1[52
+VE>]h3dICm6fDHDln3F5;Y3
+R1
+w1641230035
+8C:/altera/1801042674_hw4_restored/mips_registers.v
+FC:/altera/1801042674_hw4_restored/mips_registers.v
+L0 2
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 _49^_8`<>68WebFAH?NW23
+!s85 0
+!s108 1641641291.876000
+!s107 C:/altera/1801042674_hw4_restored/mips_registers.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/mips_registers.v|
+!s101 -O0
+vmux_2X1
+ITd]4GYFA>_C];ZPgz5>ZA2
+V9EPFP5hjHdEXc_Lo774RO0
+R1
+w1640893488
+8C:/altera/1801042674_hw4_restored/mux_2X1.v
+FC:/altera/1801042674_hw4_restored/mux_2X1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nmux_2@x1
+!i10b 1
+!s100 >28Q]2Fe:4mW8^=V:R<B?0
+!s85 0
+!s108 1641641291.684000
+!s107 C:/altera/1801042674_hw4_restored/mux_2X1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/mux_2X1.v|
+!s101 -O0
+vmux_2X1_32bit
+I>XXjAgWdTGi:d9H?YYhVh1
+VDBTMkHX>LW0;k:gbHNiY;2
+R1
+w1640893717
+8C:/altera/1801042674_hw4_restored/mux_2X1_32bit.v
+FC:/altera/1801042674_hw4_restored/mux_2X1_32bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nmux_2@x1_32bit
+!i10b 1
+!s100 nEc`:o=afh=YOB7IV=H4<3
+!s85 0
+!s108 1641641291.733000
+!s107 C:/altera/1801042674_hw4_restored/mux_2X1_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/mux_2X1_32bit.v|
+!s101 -O0
+vmux_2X1_3bit
+IzimLE@Qh]ogR>dg@BiFBH0
+VJ^S2mgYV_:PGNKn=RJ]>a0
+R1
+w1641058611
+8C:/altera/1801042674_hw4_restored/mux_2X1_3bit.v
+FC:/altera/1801042674_hw4_restored/mux_2X1_3bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nmux_2@x1_3bit
+!i10b 1
+!s100 gLUb9j2<0N:hiJTz<]M5T2
+!s85 0
+!s108 1641641291.826000
+!s107 C:/altera/1801042674_hw4_restored/mux_2X1_3bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/mux_2X1_3bit.v|
+!s101 -O0
+vsign_extend
+IUf_Ek2]zJRT;[8W:>Ga[e2
+VndKgo4B>Eg16eHK[nU62L3
+R1
+w1641042772
+8C:/altera/1801042674_hw4_restored/sign_extend.v
+FC:/altera/1801042674_hw4_restored/sign_extend.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3Un_9PHSa@E1362@h5eOR1
+!s85 0
+!s108 1641641291.551000
+!s107 C:/altera/1801042674_hw4_restored/sign_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/1801042674_hw4_restored|C:/altera/1801042674_hw4_restored/sign_extend.v|
+!s101 -O0

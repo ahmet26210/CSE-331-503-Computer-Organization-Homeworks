@@ -1,0 +1,201 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do full_adder_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/_4bit_adder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module _4bit_adder
+# 
+# Top level modules:
+# 	_4bit_adder
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/half_adder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module half_adder
+# 
+# Top level modules:
+# 	half_adder
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/full_adder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module full_adder
+# 
+# Top level modules:
+# 	full_adder
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/_32bit_adder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module _32bit_adder
+# 
+# Top level modules:
+# 	_32bit_adder
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/_32bit_and.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module _32bit_and
+# 
+# Top level modules:
+# 	_32bit_and
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/_32bit_or.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module _32bit_or
+# 
+# Top level modules:
+# 	_32bit_or
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/_32bit_xor.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module _32bit_xor
+# 
+# Top level modules:
+# 	_32bit_xor
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/_32bit_nor.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module _32bit_nor
+# 
+# Top level modules:
+# 	_32bit_nor
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/_32bit_sub.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module _32bit_sub
+# 
+# Top level modules:
+# 	_32bit_sub
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/_32bit_slt.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module _32bit_slt
+# 
+# Top level modules:
+# 	_32bit_slt
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/_8x3mux.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module _8x3mux
+# 
+# Top level modules:
+# 	_8x3mux
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/sign_extend.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sign_extend
+# 
+# Top level modules:
+# 	sign_extend
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/Control.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Control
+# 
+# Top level modules:
+# 	Control
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/ALU_control.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ALU_control
+# 
+# Top level modules:
+# 	ALU_control
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/mux_2X1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_2X1
+# 
+# Top level modules:
+# 	mux_2X1
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/mux_2X1_32bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_2X1_32bit
+# 
+# Top level modules:
+# 	mux_2X1_32bit
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/MiniMIPS.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module MiniMIPS
+# 
+# Top level modules:
+# 	MiniMIPS
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/mux_2X1_3bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux_2X1_3bit
+# 
+# Top level modules:
+# 	mux_2X1_3bit
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/mips_registers.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_registers
+# 
+# Top level modules:
+# 	mips_registers
+# vlog -vlog01compat -work work +incdir+C:/altera/1801042674_hw4_restored {C:/altera/1801042674_hw4_restored/data_memory.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module data_memory
+# 
+# Top level modules:
+# 	data_memory
+# 
+vlog -reportprogress 300 -work work C:/altera/1801042674_hw4_restored/MiniMIPS_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module MiniMIPS_testbench
+# 
+# Top level modules:
+# 	MiniMIPS_testbench
+vsim work.MiniMIPS_testbench
+# vsim work.MiniMIPS_testbench 
+# Loading work.MiniMIPS_testbench
+# Loading work.MiniMIPS
+# Loading work.Control
+# Loading work.mux_2X1_3bit
+# Loading work.mux_2X1
+# Loading work.sign_extend
+# Loading work.mips_registers
+# Loading work.mux_2X1_32bit
+# Loading work.ALU_control
+# Loading work._8x3mux
+# Loading work._32bit_adder
+# Loading work._4bit_adder
+# Loading work.full_adder
+# Loading work.half_adder
+# Loading work._32bit_xor
+# Loading work._32bit_sub
+# Loading work._32bit_or
+# Loading work._32bit_slt
+# Loading work._32bit_nor
+# Loading work._32bit_and
+# Loading work.data_memory
+add wave -position insertpoint  \
+sim:/MiniMIPS_testbench/PC \
+sim:/MiniMIPS_testbench/clk \
+sim:/MiniMIPS_testbench/instruction_set \
+sim:/MiniMIPS_testbench/result
+step -current
+# instruction_set=0000000001010000, result=00000000000000000000000000000111
+# instruction_set=0000011111000000, result=00000000000000000000000000000011
+# instruction_set=0000111011100001, result=00000000000000000000000000000010
+# instruction_set=0000000011000001, result=00000000000000000000000000000110
+# instruction_set=0000000011000001, result=00000000000000000000000000000101
+# instruction_set=0000000011000001, result=00000000000000000000000000001001
+# instruction_set=0000000011000001, result=00000000000000000000000000001000
+# instruction_set=0000000011000001, result=00000000000000000000000000001100
+# instruction_set=0000011101000010, result=00000000000000000000000000000011
+# instruction_set=0000011011101010, result=00000000000000000000000000000000
+# instruction_set=0000000001010011, result=11111111111111111111111111111100
+# instruction_set=0000010111000011, result=00000000000000000000000000000011
+# instruction_set=0000101001010100, result=00000000000000000000000000000000
+# instruction_set=0000011111000100, result=00000000000000000000000000000000
+# instruction_set=0000000001010101, result=11111111111111111111111111111111
+# instruction_set=0000011111000101, result=11111111111111111111111111111111
+# instruction_set=0001000010000001, result=00000000000000000000000000000000
+# instruction_set=0001011111000101, result=00000000000000000000000000001000
+# instruction_set=0010000001010101, result=00000000000000000000000000010101
+# instruction_set=0010011111000101, result=00000000000000000000000000000001
+# instruction_set=0011000001010101, result=11111111111111111111111111111111
+# instruction_set=0011011111000101, result=00000000000000000000000000000111
+# instruction_set=0100000001010101, result=00000000000000000000000000000000
+# instruction_set=0100011111000101, result=11111111111111111111111111111000
+# instruction_set=0111000001010101, result=11111111111111111111111111111111
+# instruction_set=0111011111000001, result=00000000000000000000000000000000
+# instruction_set=1001000001000001, result=00000000000000000000000000000000
+# instruction_set=1001011111001101, result=00000000000000000000000000010000
+# instruction_set=1000000001000001, result=00000000000000000000000000000000
+# instruction_set=1000000001000001, result=11111111111111111111111111111111
+# instruction_set=1000011111000101, result=00000000000000000000000000000000
+# instruction_set=1000011111000101, result=11111111111111111111111111111111
+# Break key hit 

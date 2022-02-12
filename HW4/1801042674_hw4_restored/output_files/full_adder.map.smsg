@@ -1,0 +1,3 @@
+Info (10281): Verilog HDL Declaration information at _8x3mux.v(6): object "G1" differs only in case from object "g1" in the same scope
+Info (10281): Verilog HDL Declaration information at _8x3mux.v(6): object "G11" differs only in case from object "g11" in the same scope
+Info (10281): Verilog HDL Declaration information at mux_2X1.v(6): object "s_not" differs only in case from object "s_NOT" in the same scope

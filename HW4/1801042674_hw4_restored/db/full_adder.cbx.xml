@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="full_adder">
+		<CBX_INST_ENTRY INSTANCE_NAME="|MiniMIPS|data_memory:data_memory|altsyncram:data_mem_rtl_0" CBX_FILE_NAME="altsyncram_o4j1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
